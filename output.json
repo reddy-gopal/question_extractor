@@ -1,0 +1,631 @@
+[
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 1,
+    "question_type": "MCQ",
+    "question": "<p>\\(A slide with a frictionless curved surface, which becomes horizontal at its lower end, is fixed on the terrace of a building of height 3h from the ground, as shown in the figure. A spherical ball of mass m is released on the slide from rest at a height h from the top of the terrace. The ball leaves the slide with a velocity \\vec{u0}=u_{0}\\hat{x} and falls on the ground at a dis\\tance d from the building making an angle \\theta with the horizontal. It bounces off with a velocity \\vec{v} and reaches a maximum height h_{1}. The acceleration due to gravity is g and the coefficient of restitution of the ground is 1∕\\\\sqrt{{3}}. Which of the following statement(s) is(are) correct?\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a210a084b.png\"/><br/>\\(*This question may have multiple correct answers\\)</p>",
+    "options": {
+      "A": "\\(\\vec{u0}=\\\\sqrt{{2gh}}\\hat{x}\\)",
+      "B": "\\(\\vec{v}=\\\\sqrt{{2gh(}}\\hat{x}−\\hat{z})\\)",
+      "C": "\\(\\theta=^{\\circ}\\)",
+      "D": "\\(\\frac{d}{h_{1}}=2\\\\sqrt{{3}}\\)"
+    },
+    "correct_answer": "D",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a210a3086.png\"/><strong><br/></strong>\\(u_{0}=\\\\sqrt{{2gh}}\\)<br/>\\(vz=\\\\sqrt{{2g(3h)}}\\)<br/>\\(\\tan\\theta=vzu=\\\\sqrt{{3}}\\)<br/>\\(\\theta=^{\\circ}\\)<br/>\\(d=u0T=u_{0}\\\\sqrt{{2(3hg)}}=\\\\sqrt{{(2gh)}}\\\\sqrt{{(2)(3hg)}}\\)<br/>\\(Velocity after collision, only velocity along z-direction change\\)<br/>\\(v_{1}=evz=\\\\sqrt{{2gh}}\\)<br/>\\(\\vec{v}=v_{1}\\hat{k}+u_{0}\\hat{i}\\)<br/>\\(=\\\\sqrt{{2gh}}[\\hat{i}+\\hat{k}]\\)<br/>\\(h_{1}=v122g=h\\)<br/>\\(Finally, u_{0}=\\\\sqrt{{2gh}},\\theta=^{\\circ},dh=2\\\\sqrt{{3}}\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 2,
+    "question_type": "MCQ",
+    "question": "<p>\\(A plane polarized blue light ray is incident on a prism such that there is no reflection from the surface of the prism. The angle of deviation of the emergent ray is δ=^{\\circ} (see Figure-1). The angle of minimum deviation for red light from the same prism is δmin=^{\\circ} (see Figure-2). The refractive index of the prism material for blue light is \\\\sqrt{{3}}. Which of the following statement(s) is(are) correct?\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a263432b3.png\"/><br/>\\(*This question may have multiple correct answers\\)</p>",
+    "options": {
+      "A": "The blue light is polarized in the plane of incidence.",
+      "B": "The angle of the prism is 45circ.",
+      "C": "\\(The refractive index of the material of the prism for red light is \\sqrt{2}.\\)",
+      "D": "The angle of refraction for blue light in air at the exit plane of the prism is 60circ."
+    },
+    "correct_answer": "D",
+    "solution": "<p>SolutionsFor no reflection<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a26345939.png\"/><br/>\\(\\tani=\\\\sqrt{{3}}\\)<br/>\\(i=60\\)<br/>\\(\\sini\\sinr1=\\\\sqrt{{3}},r_{1}=^{\\circ}\\)<br/>\\(\\sini\\sinr1=\\\\sqrt{{3}},r_{1}=^{\\circ}\\)<br/>\\(δ=i+e−r_{1}−r_{2}=^{\\circ}\\)<br/>\\(e=^{\\circ}r_{2}=^{\\circ}\\)<br/>\\(A=^{\\circ}\\)<br/>For red light,<br/>\\(µ=\\sin(A+δm2)\\sin(A_{2})=\\\\sqrt{{2}}\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 3,
+    "question_type": "MCQ",
+    "question": "<p>\\(In a circuit shown in the figure, the capacitor C is initially uncharged and the key K is open. In this condition, a current of 1A flows through the 1Ω resistor. The key is closed at time t=t_{0}. Which of the following statement(s) is(are) correct?\\)<br/>\\([Given : e−1=0.36 ]\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a2ba21f14.png\"/><br/>\\(*This question may have multiple correct answers\\)</p>",
+    "options": {
+      "A": "\\(The value of the resis\\tance R is 3Ω.\\)",
+      "B": "\\(For t&lt;t_{0}, the value of current I_{1} is 2A.\\)",
+      "C": "\\(At t=t_{0}+7.2µs, the current in the capacitor is 0.6A.\\)",
+      "D": "\\(For t\\vec∞, the charge on the capacitor is 12µC.\\)"
+    },
+    "correct_answer": "D",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a2ba23739.png\"/><strong><br/></strong>\\(15−IR=6\\)<br/>\\(I_{1}[3]=6\\)<br/>\\(I_{1}=2A\\)<br/>\\(I=I_{1}+1=3\\)<br/>\\(15−3R=6\\)<br/>\\(⇒R=3Ω\\)<br/>Eq. circuit is<br/>\\(1Req=13+13+1\\)<br/>\\(Req=35Ω\\)<br/>\\(Eeq=5+5+0=10\\)<br/>\\(Eeq=10×35=6V\\)<br/>\\(Current in circuit is 6(35+3)e−\\frac{t}{CR}\\)<br/>\\(=6×518e−7.2×10−62×10−6×3⋅6\\)<br/>\\(=3018×e−1=3018×0.36\\)<br/>\\(=0.6A\\)<br/>\\(At steady state, voltage across capacitor =6V Q=6×2=12µC\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 4,
+    "question_type": "MCQ",
+    "question": "<p>\\(A bar of mass M=1.00kg and length L=0.20m is lying on a horizontal frictionless surface. One end of the bar is pivoted at a point about which it is free to rotate. A small mass m=0.10kg is moving on the same horizontal surface with 5.00ms−1 speed on a path perpendicular to the bar. It hits the bar at a dis\\tance \\frac{L}{2} from the pivoted end and returns back on the same path with speed v. After this elastic collision, the bar rotates with an angular velocity ω. Which of the following statement is correct?\\)<br/></p>",
+    "options": {
+      "A": "\\(ω=6.98rads−1 and v=4.30ms−1\\)<br/>",
+      "B": "\\(ω=3.75rads−1 and v=4.30ms−1\\)<br/>",
+      "C": "\\(ω=3.75rads−1 and v=10.0ms−1\\)<br/>",
+      "D": "\\(ω=6.80rads−1 and v=4.10ms−1\\)"
+    },
+    "correct_answer": "A",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a3046c8ff.png\"/><strong><br/></strong>C.O.A.M. about point O<br/>\\(mv0L2=ML23ω−mvL2.....(i)\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a3046d1d9.png\"/><br/>\\(e=1\\)<br/>\\(⇒v_{0}=v+Lω2...........(ii)\\)<br/>Solve equation (i) and (ii)<br/>\\(m=0.1kg,M=1kg,L=0.20m\\)<br/>\\(v_{0}=\\frac{5m}{s}\\)<br/>Solve (i) and (ii)<br/>\\(We get, ω=6.\\frac{98rad}{s} and v=4.\\frac{3m}{s}\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 5,
+    "question_type": "MCQ",
+    "question": "<p>\\(A container has a base of 50cm×5cm and height 50cm, as shown in the figure. It has two parallel electrically conducting walls each of area 50cm×50cm. The remaining walls of the container are thin and non-conducting. The container is being filled with a liquid of dielectric cons\\tant 3 at a uniform rate of 250cm3s−1. What is the value of the capaci\\tance of the container after 10 seconds?\\)<br/>\\([Given: Permittivity of free space ε0=9×10−12C2N−1m−2, the effects of the non-conducting walls on the capaci\\tance are negligible]\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a3a6e6547.png\"/><br/></p>",
+    "options": {
+      "A": "\\(27pF\\)<br/>",
+      "B": "\\(63pF\\)<br/>",
+      "C": "\\(81pF\\)<br/>",
+      "D": "\\(135pF\\)"
+    },
+    "correct_answer": "B",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a3a6e7f6a.png\"/><strong><br/></strong></p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 6,
+    "question_type": "MCQ",
+    "question": "<p>\\(One mole of an ideal gas expands adiabatically from an initial state (TA,V_{0}) to final state (Tf,5V0). Another mole of the same gas expands isothermally from a different initial state (TB,V_{0}) to the same final state (Tf5V0). The ratio of the specific heats at cons\\tant pressure and cons\\tant volume of this ideal gas is \\gamma. What is the ratio \\frac{TA}{TB} ?\\)<br/></p>",
+    "options": {
+      "A": "\\(5\\gamma−1\\)<br/>",
+      "B": "\\(51−\\gamma\\)<br/>",
+      "C": "\\(5\\gamma\\)<br/>",
+      "D": "\\(51+\\gamma\\)"
+    },
+    "correct_answer": "A",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a3ca67dc2.png\"/><strong><br/></strong>For Adiabatic process<br/>\\(TV′−1=C\\)<br/>\\(⇒TAV0\\gamma−1=Tf(5V0)\\gamma−1...(i)\\)<br/>For Isothermal process<br/>\\(TB=Tf......(ii)\\)<br/>Equation (i) ÷ equation (ii)<br/>\\(⇒TATB=5\\gamma−1\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 7,
+    "question_type": "MCQ",
+    "question": "<p>\\(Two satellites P and Q are moving in different circular orbits around the Earth (radius R ). The heights of P and Q from the Earth surface are hP and hQ, respectively, where hP=R_{3}. The accelerations of P and Q due to Earth's gravity are gP and gQ. respectively. If gPgQ=3625, what is the value of hQ ?\\)<br/></p>",
+    "options": {
+      "A": "\\(3R5\\)<br/>",
+      "B": "\\(R_{6}\\)<br/>",
+      "C": "\\(6R5\\)<br/>",
+      "D": "\\(5R5\\)"
+    },
+    "correct_answer": "A",
+    "solution": "<p>Solutions\\(Given hP=R_{3}\\)<br/>\\(hQ=?\\)<br/>gravitational acceleration at height<br/>\\(ght=GM(R+h)2\\)<br/>\\(gPgQ=3625=GM(R+hP)2GM(R+hQ)2\\)<br/>\\(Put hP=R_{3} solving\\)<br/>\\(hQ=3R5\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 8,
+    "question_type": "MCQ",
+    "question": "<p>\\(A Hydrogen-like atom has atomic number Z. Photons emitted in the electronic transitions from level n=4 to level n=3 in these atoms are used to perform photoelectric effect experiment on a target metal. The maximum kinetic energy of the photoelectrons generated is 1.95eV. If the photoelectric threshold wavelength for the target metal is 310nm, the value of Z is____________\\)<br/>\\([Given hc=1240eV-nm and Rhc=13.6eV, where R is the Rydberg cons\\tant, h is the Planck's cons\\tant and c is the speed of light in vacuum]\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(\\DeltaE4to3=1.95eV+1240310eV\\)<br/>\\(13.6Z2(132−142)=5.95\\)<br/>\\(13.6Z279×16=5.95\\)<br/>\\(Z_{2}=5.95×9×1613.6\\)<br/>\\(Solving Z=3\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 9,
+    "question_type": "MCQ",
+    "question": "<p>\\(An optical arrangement consists of two concave mirrors M_{1} and M_{2}, and a convex lens L with a common principal axis, as shown in the figure. The focal length of L is 10cm. The radii of curvature of M_{1} and M_{2} are 20cm and 24cm, respectively. The dis\\tance between L and M_{2} is 20cm. A point object S is placed at the mid-point between L and M_{2} on the axis. When the dis\\tance between L and M_{1} is n7cm, one of the images coincides with S. The value of n is__________\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a4f02fefd.png\"/><br/>\\(*This question may have multiple correct answers\\)</p>",
+    "options": {
+      "A": "\\(80\\)",
+      "B": "\\(150\\)",
+      "C": "\\(200\\)",
+      "D": "\\(220\\)"
+    },
+    "correct_answer": "D",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a4f032cb2.png\"/><strong><br/></strong>\\(For reflection from M_{2}\\)<br/>\\(1v+1(−10)=1(−12)\\)<br/>\\(1v=110−112\\)<br/>\\(v=+60cm(forI1)\\)<br/>For refraction from L<br/>\\(1v−1u=1f\\)<br/>\\(1v−1(−80)=110\\)<br/>\\(v=+807(ForI2)\\)<br/>\\(This image should be at focus of M_{1}\\)<br/>\\(∴202+807=n_{7}\\)<br/>\\(n=150\\)<br/>Also,<br/>\\(If I_{2} is formed at pole of M_{1} then \\frac{n}{7}=\\frac{80}{7}\\)<br/>\\(n=80\\)<br/>\\(And further if I_{2} is formed at centre of curvature of M_{1} then\\)<br/>\\(n_{7}=807+20\\)<br/>\\(∴n=220\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 10,
+    "question_type": "MCQ",
+    "question": "<p>\\(In an experiment for determination of the focal length of a thin convex lens, the dis\\tance of the object from the lens is 10±0.1cm and the dis\\tance of its real image from the lens is 20±0.2cm. The error in the determination of focal length of the lens is n%. The value of n is________\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(Object dis\\tance =10±0.1cm\\)<br/>\\(Image dis\\tance =20±0.2cm\\)<br/>Applying lens formula<br/>\\(\\frac{1}{v}−\\frac{1}{u}=\\frac{1}{f}.........(i)\\)<br/>\\(⇒120−1(−10)=1f\\)<br/>\\(⇒f=203cm\\)<br/>Differentiate equation (i)<br/>\\(−1v2dv+1u2du=−1f2df\\)<br/>For calculating error<br/>\\(1f2df=+1v2dv+1u2du\\)<br/>\\((dff)×100=(0.2202+0.1102)203×100\\)<br/>\\(=(0.24+0.11)203=1\\)<br/>\\(∴dff×100=1%\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 11,
+    "question_type": "MCQ",
+    "question": "<p>\\(A closed container contains a homogeneous mixture of two moles of an ideal monatomic gas (\\gamma=\\frac{5}{3)} and one mole of an ideal diatomic gas (\\gamma=\\frac{7}{5)}. Here, \\gamma is the ratio of the specific heats at cons\\tant pressure and cons\\tant volume of an ideal gas. The gas mixture does a work of 66 Joule when heated at cons\\tant pressure. The change in its internal energy is Joule.\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(\\Deltau=n1C1\\DeltaT+n2C2\\DeltaT\\)<br/>\\(=(n1C1+n2C2)\\DeltaT.......(i)\\)<br/>\\(Work done=P\\Deltav\\)<br/>\\(=(n_{1}+n_{2})R\\DeltaT....(ii)\\)<br/>Divide (i) by (ii)<br/>\\(\\DeltauW=(n1C1+n2C2)\\DeltaT(n_{1}+n_{2})R\\DeltaT\\)<br/>\\(\\Deltau=WR(n1C1+n2C2n1+n_{2})\\)<br/>\\(=66R[3R2×2+5R2×1]2+1\\)<br/>\\(=121J\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 12,
+    "question_type": "MCQ",
+    "question": "<p>\\(A person of height 1.6m is walking away from a lamp post of height 4m along a straight path on the flat ground. The lamp post and the person are always perpendicular to the ground. If the speed of the person is 60cms−1, the speed of the tip of the person's shadow on the ground with respect to the person is __________ cms−1.\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(Given that dx1dt= speed of person =\\frac{60cm}{s}\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a5805cf65.png\"/><br/>\\(Also dx2dt= speed of tip of person's shadow\\)<br/>Applying similar triangle rule in △ABE&amp;△DCE<br/>\\(4x2=1.6x2−x_{1}\\)<br/>\\(4x2−4x1=1.6x2\\)<br/>\\(2.4x2=4x1\\)<br/>Differentiate both sides w.r.t. t<br/>\\(2.4dx2dt=4dx1dt\\)<br/>\\(dx2dt=42.4(60)\\)<br/>\\(=\\frac{100cm}{s}\\)<br/>\\(\\vec{vSP}=\\vec{vSG}−\\vec{vPG}\\)<br/>\\(vSP=100cms−1−60cms−1\\)<br/>\\(=40cms−1\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 13,
+    "question_type": "MCQ",
+    "question": "<p>\\(Two point-like objects of masses 20gm and 30gm are fixed at the two ends of a rigid massless rod of length 10cm. This system is suspended vertically from a rigid ceiling u\\sing a thin wire attached to its center of mass, as shown in the figure. The resulting torsional pendulum undergoes small oscillations. The torsional cons\\tant of the wire is 1.2×10−8Nmrad−1. The angular frequency of the oscillations in n×10−3rads−1. The value of n is________.\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a5cdc5b7c.png\"/><br/></p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(m_{1}=30gm\\)<br/>\\(m_{2}=20gm\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a5cdc657e.png\"/>Moment of inertia about the axis of rotation is<br/>\\(I=m1r12+m2r22\\)<br/>\\(Clearly r_{1}=4cm\\)<br/>\\(And r_{2}=6cm\\)<br/>\\(∴I=(30×10−3×16×10−4)+(20×10−3×36×10−4)\\)<br/>\\(⇒I=1200×10−7kgm2\\)<br/>\\(If the system is rotated by small angle ' \\theta ', the restoring torque is τ(R)=−k\\theta\\)<br/>\\(And d_{2}\\thetadt2=−kl⋅\\theta=−ω2\\theta=−1.2×10−81200×10−7⋅\\theta\\)<br/>\\(∴ω2=10−4\\)<br/>\\(So, ω=\\frac{1100rad}{s}\\)<br/>\\(⇒ω=10×10−\\frac{3rad}{s}\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 14,
+    "question_type": "MCQ",
+    "question": "<p>\\(List-I shows different radioactive decay processes and List-II provides possible emitted particles. Match each entry in List-I with an appropriate entry from List-II, and choose the correct option.\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a6078750e.png\"/><br/></p>",
+    "options": {
+      "A": "\\(P\\vec{4},Q\\vec{3},R\\vec{2},S\\vec{1}\\)<br/>",
+      "B": "\\(P\\vec{4},Q\\vec{1},R\\vec{2},S\\vec{5}\\)<br/>",
+      "C": "\\(P\\vec{5},Q\\vec{3},R\\vec{1},S\\vec{4}\\)<br/>",
+      "D": "\\(P\\vec{5},Q\\vec{1},R\\vec{3},S\\vec{2}\\)"
+    },
+    "correct_answer": "A",
+    "solution": "<p>Solutions\\(∗ In \\alpha decay mass number decreases by 4 unit and atomic number decreases by 2 unit.\\)<br/>\\(∗ In \\beta−decay mass number does not change but atomic number increases by 1 unit.\\)<br/>\\(∗ In \\beta+decay mass number does not change but atomic number decreases by 1 unit.\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 15,
+    "question_type": "MCQ",
+    "question": "<p>\\(Match the temperature of a black body given in List-I with an appropriate statement in List-II, and choose the correct option.\\)<br/>\\([Given: Wien's cons\\tant as 2.9×10−3m−K and hce=1.24×10−6V−m ]\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a661f316e.png\"/><br/></p>",
+    "options": {
+      "A": "\\(P\\vec{3},Q\\vec{5},R\\vec{2},S\\vec{3}\\)<br/>",
+      "B": "\\(P\\vec{3},Q\\vec{2},R\\vec{4},S\\vec{1}\\)<br/>",
+      "C": "\\(P\\vec{3},Q\\vec{4},R\\vec{2},S\\vec{1}\\)<br/>",
+      "D": "\\(P\\vec{1},Q\\vec{2},R\\vec{5},S\\vec{3}\\)"
+    },
+    "correct_answer": "C",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a6620538b.png\"/><br/>\\(List-II\\)<br/>\\((1) λth=hcφ=1.24×10−64=0.31×10−6m=310nm\\)<br/>\\(As, λ≤λth S\\vec{1}\\)<br/>\\((2) 400&lt;λ&lt;700nm\\)<br/>\\(R\\vec{2}\\)<br/>\\((3) Central maxima is widest for maximum wavelength ⇒P\\vec{3}\\)<br/>\\((4) σA(T_{1})4=116σAT24⇒T_{1}=12T2=3000KQ\\vec{4}\\)<br/>\\((5) For imaging bones X-rays are used (1−10nm)\\)<br/>\\(None of the options in List-II\\)<br/></p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 16,
+    "question_type": "MCQ",
+    "question": "<p>\\(A series LCR circuit is connected to a 45\\sin(ωt) Volt source. The resonant angular frequency of the circuit is 105rads−1 and current amplitude at resonance is I_{0}. When the angular frequency of the source is ω=8×104 rad s−1, the current amplitude in the circuit is 0.05I0. If L=50mH, match each entry in List-I with an appropriate value from List-II and choose the correct option.\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a6924726b.png\"/><br/></p>",
+    "options": {
+      "A": "\\(P\\vec{2},Q\\vec{3},R\\vec{5},S\\vec{1}\\)<br/>",
+      "B": "\\(P\\vec{3},Q\\vec{1},R\\vec{4},S\\vec{2}\\)<br/>",
+      "C": "\\(P\\vec{4},Q\\vec{5},R\\vec{3},S\\vec{1}\\)<br/>",
+      "D": "\\(P\\vec{4},Q\\vec{2},R\\vec{1},S\\vec{5}\\)"
+    },
+    "correct_answer": "B",
+    "solution": "<p>SolutionsAs per the given information :<br/>\\(1\\\\sqrt{{LC}}=105...(i)\\)<br/>\\(I_{0}=45R...(ii)\\)<br/>\\(0.05I0=45\\\\sqrt{{R_{2}+(0}}.8XL0−54XC0)2\\)<br/>\\(Where XL0=XC0 are at resonant frequencies\\)<br/>\\(On solving, R≃450Ω4⇒I_{0}≃400mA\\)<br/>\\(Quality factor Q=1R\\\\sqrt{{LC}}≃44.44\\)<br/>\\(Q=ω0\\Deltaω⇒\\Deltaω≃\\frac{2250rad}{s}\\)<br/>\\(Peak power =45×4001000W\\)<br/>⇒ Correct match is option (B)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 17,
+    "question_type": "MCQ",
+    "question": "<p>\\(A thin conducting rod MN of mass 20gm, length 25cm and resis\\tance 10Ω is held on frictionless, long, perfectly conducting vertical rails as shown in the figure. There is a uniform magnetic field B_{0}=4T directed perpendicular to the plane of the rod-rail arrangement. The rod is released from rest at time t=0 and it moves down along the rails. Assume air drag is negligible. Match each quantity in List-I with an appropriate value from List-II, and choose the correct option.\\)<br/>\\([Given: The acceleration due to gravity g=10ms−2 and e−1=0.4 ]\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a6d913b98.png\"/><br/></p>",
+    "options": {
+      "A": "\\(P\\vec{5},Q\\vec{2},R\\vec{3},S\\vec{1}\\)<br/>",
+      "B": "\\(P\\vec{3},Q\\vec{1},R\\vec{4},S\\vec{5}\\)<br/>",
+      "C": "\\(P\\vec{4},Q\\vec{3},R\\vec{1},S\\vec{2}\\)<br/>",
+      "D": "\\(P\\vec{3},Q\\vec{4},R\\vec{2},S\\vec{5}\\)"
+    },
+    "correct_answer": "D",
+    "solution": "<p>Solutions\\(Induced emf ε=Bℓv\\)<br/>\\(⇒ Induced current i=εR=BℓVR\\)<br/>\\(⇒mg−iℓB=ma\\)<br/>\\([Applying 2nd law]\\)<br/>\\(⇒mg−B2ℓ2vR=mdvdt\\)<br/>\\(⇒dvmg−B2ℓ2vR=dtm⇒\\ln[mg−B2ℓ2vR]0v−B2ℓ2R=tm\\)<br/>\\(⇒mg−B2ℓ2vRmg=e−B2ℓ2mRt\\)<br/>\\(⇒v=2[1−e−5t]\\)<br/>\\(⇒ At t=0.2s,v=2[1−1e]\\)<br/>\\(⇒ε=Bℓ×2[1−1e]=1.2 volts\\)<br/>\\(and magnetic force =iℓB=0.12N\\)<br/>\\(and power dissipated =0.144W\\)<br/>\\(also, Terminal velocity =\\frac{2m}{s}\\)<br/>⇒ Correct match is (D)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 18,
+    "question_type": "MCQ",
+    "question": "<p>The correct statement(s) related to processes involved in the extraction of metals is(are)<br/>\\(*This question may have multiple correct answers\\)</p>",
+    "options": {
+      "A": "Roasting of Malachite produces Cuprite<br/>",
+      "B": "Calcination of Calamine produces Zincite<br/>",
+      "C": "Copper pyrites is heated with silica in a reverberatory furnace to remove iron<br/>",
+      "D": "Impure silver is treated with aqueous KCN in the presence of oxygen followed by reduction with zinc metal"
+    },
+    "correct_answer": "D",
+    "solution": "<p>Solutions\\(Cu(OH)2⋅CuCO3\\vec{CuO}+H2O+CO2\\)<br/>\\(ZnCO3Calamine\\Delta\\vec{ZnOZincite}+CO2\\)<br/>\\(CuFeS2+O_{2}\\vec{Cu2S}+FeS+SO2\\)<br/>\\(FeS+O_{2}\\vec{FeO}+SO2\\)<br/>\\(FeO+SiO2\\vec{FeSiO3Slage}\\)<br/>\\(4Ag+8CN−+2H2O+O_{2}\\vec{4}[Ag(CN)2]−+4OH−\\)<br/>\\(2[Ag(CN)2]−+Zn(s)\\vec[Zn(CN)4]2−+2Ag\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 19,
+    "question_type": "MCQ",
+    "question": "<p>\\(In the following reactions, P,Q,R and S are the major products.CH3CH2CH(CH3)CH2CN(i)PhMgBr,thenH3O⊕──────────────▶(ii)PhMgBr,thenH2OP\\)<br/>\\(Ph−H+CH3O||CCl(i)anhyd.AlCl3──────────▶(ii)PhMgBr,thenH2OQ\\)<br/>\\(CH3CH2O||CCl12(PhCH2)2Cd────────▶(ii)PhMgBr,thenH2OR\\)<br/>\\(PhCH2CHO(i)PhMgBr,thenH2O(ii)CrO3,dil.H2SO4─────────────────────▶(iiiHCN)(iv)H2SO4S\\)<br/>The correct statement(s) about P,Q,R and S is(are)<br/>\\(*This question may have multiple correct answers\\)</p>",
+    "options": {
+      "A": "Both P and Q have asymmetric carbon(s)<br/>",
+      "B": "Both Q and R have asymmetric carbon(s)<br/>",
+      "C": "Both P and R have asymmetric carbon(s)<br/>",
+      "D": "P has asymmetric carbon(s), S does not have any asymmetric carbon"
+    },
+    "correct_answer": "D",
+    "solution": "<p>Solutions\\(CH3CH2CH(CH3)CH2CN(i)PhMgBr,H3O+──────────▶(ii)PhMgBr2,H2OCH3CH2−CH3|C*−CH2−OH|C|Ph−Ph(P)\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a7545b385.png\"/>\\(CH3−CH2−O||C−Cl(i)12(Ph(CH2))2Cd────────▶(ii)PMgBr,H2OCH3−CH2−OH|C*|Ph−CH2−Ph(R)\\)<br/>\\(PhCH2CHO(i)PhMgBr,H2O─────────────────▶(ii)CrO3,dil.H2SO4(iii)HCNPh−CH2−OH|C|CN−PhH2SO4,\\Delta────────▶Ph−CH=C|CN−Ph(S)\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 20,
+    "question_type": "MCQ",
+    "question": "<p>Consider the following reaction scheme and choose the correct option(s) for the major products Q,R and S.<br/>\\(Styrene(i)B2H5────────▶(ii)NaOH,H2O2,H2OP(i)CrO3,H2SO4────────▶(iii)Cl2,Redphosphorus(ii)H2OQ\\)<br/>\\(P(i)SOCl2────────▶(ii)NaCN(iii)H3O+,\\DeltaRconc,H2SO4────────▶S\\)</p>",
+    "options": {
+      "A": "<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a7e75d998.png\"/><br/>",
+      "B": "<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a7e75ed92.png\"/><br/>",
+      "C": "<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a7e75fb7f.png\"/><br/>",
+      "D": "<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a7e76093e.png\"/><br/>"
+    },
+    "correct_answer": "B",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a7e761d2b.png\"/><strong><br/></strong></p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 21,
+    "question_type": "MCQ",
+    "question": "<p>In the scheme given below, X and Y, respectively, are<br/>\\(Metal halide aq.NaOH────────▶ White precipitate (P)+ Filtrate (Q)\\)<br/>\\(Paq.H2SO4PbO2(excess)────────▶heat X (a coloured species in solution)\\)<br/>\\(QMnO(OH)2Conc.H2SO4────────▶warmY (gives blue-coloration with KI-starch paper)\\)</p>",
+    "options": {
+      "A": "\\(CrO42− and Br2\\)<br/>",
+      "B": "\\(MnO42− and Cl2\\)<br/>",
+      "C": "\\(MnO4−and Cl2\\)<br/>",
+      "D": "\\(MnSO4 and HOCl\\)"
+    },
+    "correct_answer": "C",
+    "solution": "<p>Solutions\\(MnCl2aq NaOH────────▶Mn(OH)2(P)+NaCl(Q)\\)<br/>\\(Mn(OH)2PPbO2──────▶H2SO4\\DeltaMnO4−(X)\\)<br/>\\(NaClMnO(OH)2───────▶Conc.H2SO4\\DeltaCl2(Y)KI────▶starchblue\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 22,
+    "question_type": "MCQ",
+    "question": "<p>\\(Plotting 1/Λm against cΛm for aqueous solutions of a monobasic weak acid (HX) resulted in a straight line with y-axis intercept of P and slope of S. The ratio \\frac{P}{S} is\\)<br/>\\([Λm=. molar conductivity\\)<br/>\\(Λm∘= limiting molar conductivity\\)<br/>\\(c= molar concentration\\)<br/>\\(Ka= dissociation cons\\tant of HX]\\)<br/></p>",
+    "options": {
+      "A": "KaΛm∘<br/>",
+      "B": "\\(KaΛm∘∕2\\)<br/>",
+      "C": "\\(2KaΛm∘\\)<br/>",
+      "D": "\\(\\frac{1}{(Ka}Λm∘)\\)"
+    },
+    "correct_answer": "A",
+    "solution": "<p>Solutions\\(\\alpha=ΛmΛm∘\\)<br/>\\(Ka=c\\alpha21−\\alpha\\)<br/>\\(Ka=c(Λm/Λm∘)21−(Λm/Λm∘)\\)<br/>\\(Ka=cΛm2Λm∘(Λm∘−Λm)\\)<br/>\\(KaΛm∘2−KaΛm∘Λm=cΛm2\\)<br/>\\(KaΛm∘2Λm−KaΛm∘=cΛm\\)<br/>\\(KaΛm∘2Λm=cΛm+KaΛm∘\\)<br/>\\(1Λm=(cΛmKaΛm∘2)+1Λm∘\\)<br/>\\(P=1Λm∘\\)<br/>\\(S=1KaΛm∘2\\)<br/>\\(PS=(1Λm∘1KaΛm∘2)=KaΛm∘\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 23,
+    "question_type": "MCQ",
+    "question": "<p>\\(On decrea\\sing the pH from 7 to 2 , the solubility of a sparingly soluble salt (MX) of a weak acid (HX) increased from 10−4molL−1 to 10−3molL−1. The pKa of HX is\\)<br/></p>",
+    "options": {
+      "A": "\\(3\\)<br/>",
+      "B": "\\(4\\)<br/>",
+      "C": "\\(5\\)<br/>",
+      "D": "\\(2\\)"
+    },
+    "correct_answer": "B",
+    "solution": "<p>Solutions\\(MX⇌M⊕+X⊖\\)<br/>\\(X⊖+H⊕⇌HX\\)<br/>\\(S=\\\\sqrt{{ksp(1+H}}⊕ka)\\)<br/>\\(10−4=\\\\sqrt{{ksp(1+10}}−7ka)...(1)\\)<br/>\\(10−3=\\\\sqrt{{ksp(1+10}}−2ka)\\)<br/>\\(Equation \\frac{(1)}{(2)} gives\\)<br/>\\(10−2=(1+10−7ka)(1+10−2ka)\\)<br/>\\(10−2+10−4ka=1+10−7ka\\)<br/>\\(10−4−10−7ka=0.99\\)<br/>\\(10−4ka=0.99\\)<br/>\\(ka=10−40.99=199×10−2\\)<br/>\\(pKa=2+\\log99≃4\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 24,
+    "question_type": "MCQ",
+    "question": "<p>In the given reaction scheme, P is a phenyl alkyl ether, Q is an aromatic compound; R and S are the major products.<br/>\\(PHI────▶Q(i)NaOH(ii)CO2───────▶(iii)H3O+R(i)(CH3CO)2O───────▶(ii)H3O+S\\)<br/>The correct statement about S is<br/></p>",
+    "options": {
+      "A": "It primarily inhibits noradrenaline degrading enzymes<br/>",
+      "B": "It inhibits the synthesis of prostaglandin<br/>",
+      "C": "It is a narcotic drug<br/>",
+      "D": "\\(It is ortho-acetylbenzoic acid\\)"
+    },
+    "correct_answer": "B",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a861b66d7.png\"/><strong><br/></strong>\\(S is ortho-acetoxybenzoic acid, it inhibits the synthesis of prostaglandin.\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 25,
+    "question_type": "MCQ",
+    "question": "<p>\\(The stoichiometric reaction of 516g of dimethyldichlorosilane with water results in a tetrameric cyclic product X in 75% yield. The weight (in g ) of X obtained is\\)<br/>\\([Use, molar mass (gmol−1):H=1,C=12,O=16,Si=28,Cl=35.5 ]\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(Dimethyldichlorosilane -\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a8c236da3.png\"/><br/>\\(Number of moles of dimethyldichlorosilane initially taken =516129=4 moles\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a8c237c90.png\"/>Applying POAC on Si atom<br/>\\(Moles of tetrameric cyclic product formed =44×75100=0.75 moles\\)<br/>\\(Molar mass of product formed =\\frac{296g}{moles}\\)<br/>\\(The mass of product formed =296×0.75=222g\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 26,
+    "question_type": "MCQ",
+    "question": "<p>\\(A gas has a compressibility factor of 0.5 and a molar volume of 0.4dm3mol−1 at a temperature of 800K and pressure x atm. If it shows ideal gas behaviour at the same temperature and pressure, the molar volume will be\\)<br/>\\([Use: Gas cons\\tant, R=8×10−2Latm K−1mol−1 ]\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(Compressibility factor (Z)=VrealVideal=0.5\\)<br/>\\(Vreal=0.4dm3mol−1=0.\\frac{4L}{mol}\\)<br/>\\(∴Videal=0.40.5=0.\\frac{8L}{mol}\\)<br/>\\(∴y=0.\\frac{8L}{mol}\\)<br/>\\(U\\sing ideal gas equation : PV=nRT\\)<br/>\\(P=1×8×10−2×8000.8\\)<br/>\\(x=80atm\\)<br/>\\(∴xy=800.8=100\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 27,
+    "question_type": "MCQ",
+    "question": "<p>\\(The plot of \\logkf versus \\frac{1}{T} for a reversible reaction A(g)⇌P(g) is shown.\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a9224fae8.png\"/><br/>\\(Pre-exponential factors for the forward and backward reactions are 1015s−1 and 1011s−1, respectively. If the value of \\logK for the reaction at 500K is 6 , the value of |\\logkb| at 250K is _________ .\\)<br/>\\([K=. equilibrium cons\\tant of the reaction, kf= rate cons\\tant of forward reaction, kb= rate cons\\tant of backward reaction ]\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>SolutionsFrom the question<br/>\\(Af=1015,Ab=1011, f= Forward reaction\\)<br/>\\(\\logK at 500K=6 b= Backward reaction\\)<br/>\\(\\logkf at 500K=9 (from graph) \\logkb at 500K :\\)<br/>\\(\\logK=\\log(kfkb)\\since⇒K=kfkb\\)<br/>\\(6=\\logkf−\\logkb\\)<br/>\\(6=9−\\logkb\\)<br/>\\(\\logkb=3at500K\\)<br/>\\(\\logk2k1=−EaR(1T2−1T1)\\)<br/>\\(kb=Abe−EabRT\\)<br/>\\(\\lnkb=\\ln(Abe−EabRT)\\)<br/>\\(\\lnkb=\\lnAb−EabRT\\)<br/>\\(Ea500R=2.303(\\logAb−\\logkb)\\)<br/>\\(Ea500R=2.303(\\log1011−3)\\)<br/>\\(Ea500R=2.303(11−3)=2.303×8\\)<br/>\\(Ea=2.303×8×500R\\)<br/>\\(\\ln(k2k1)=−EaR(1T2−1T1)\\)<br/>\\(\\ln(k250Kk500K)=−EaR(1250−1500)\\)<br/>\\(\\ln(k250Kk500K)=−2.303×8×500RR(1500)\\)<br/>\\(2.303(\\logk250K−\\logk500K)=−2.303×8\\)<br/>\\(\\logk250K−3=−8\\)<br/>\\(\\logk250K=−5\\)<br/>\\(|\\logk250K|=5\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 28,
+    "question_type": "MCQ",
+    "question": "<p>\\(One mole of an ideal monoatomic gas undergoes two reversible processes (A\\vec{B} and B\\vec{C} ) as shown in the given figure:\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a962ece30.png\"/><br/>\\(A\\vec{B} is an adiabatic process. If the total heat absorbed in the entire process (A\\vec{B}. and B\\vec{C} ) is RT2\\ln10, the value of 2\\logV3 is\\)<br/>\\([Use, molar heat capacity of the gas at cons\\tant pressure, Cp,m=52R ]\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(qA\\vec{C}=RTT2\\ln10\\)<br/>\\(qA\\vec{B}=0 ( ∵ adiabatic)\\)<br/>\\(qA\\vec{C}=qBB\\vec{C}\\)<br/>\\(qA\\vec{CA}=nRT2\\ln(V3V2) ....(1)\\)<br/>\\(For B\\vec{C}\\)<br/>\\(\\DeltaE=q+w\\)<br/>\\(\\DeltaE=0 (\\since isothermic)\\)<br/>\\(q=−w\\)<br/>\\(=−(−nRT2\\lnV3V2)\\)<br/>\\(=nRT2\\ln(V3V2)\\)<br/>\\(qB\\vec{C}=nRT2\\ln(V3V2)\\)<br/>\\(qB\\vec{C}=RT2\\ln(V3V2)[Since n=1 ]\\)<br/>\\(From A\\vec{B}\\)<br/>\\(T1V1\\gamma−1=T2V2\\gamma−1\\)<br/>\\(600V1\\gamma−1=60V2\\gamma−1\\)<br/>\\(10×1053−1=V_{2}\\gamma−1\\)<br/>\\(10×1053−1=V_{2}\\gamma−1\\)<br/>\\(\\frac{105}{3}=V_{253}−1\\)<br/>\\(\\frac{105}{3}=\\frac{V_{22}}{3}\\)<br/>\\(V_{2}=1053×32=1052\\)<br/>\\(V_{2}=1052...(2)\\)<br/>\\(From equation (1)\\)<br/>\\(qA\\vec{C}=nRT2\\ln(V3V2)\\)<br/>\\(Given, qA\\vec{C}=RT2\\ln10\\)<br/>\\(RT2\\ln10=RT2\\ln(V3V2)\\)<br/>\\(\\ln10=\\ln(V3V2)\\)<br/>\\(\\ln10=\\ln(V_{31052})\\)<br/>\\(10=V_{31052}\\)<br/>\\(V_{3}=101+52=1072\\)<br/>\\(2\\logV3=\\frac{2\\log107}{2}\\)<br/>\\(=7\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 29,
+    "question_type": "MCQ",
+    "question": "<p>\\(In a one-litre flask, 6 moles of A undergoes the reaction A(g)⇌P(g). The progress of product formation at two temperatures (in Kelvin), T_{1} and T_{2}, is shown in the figure:\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2a9b524a10.png\"/><br/>\\(If T_{1}=2T2 and (\\DeltaG2⊖−\\DeltaG1⊖)=RT2\\lnx, then the value of x is\\)<br/>\\([ \\DeltaG1⊖ and \\DeltaG2⊖ are s\\tandard Gibb's free energy change for the reaction at temperatures T_{1} and T_{2}, respectively.]\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>SolutionsA(g) ⇌ P(g)<br/>\\(Intially 6 0\\)<br/>\\(At equilibrium 6−a aat T1a=4 at T2a=2\\)<br/>\\(∴(Keq)1=42=2 ∴(Keq)2=24=12\\)<br/>\\(\\DeltaG1⊖=−RT1\\ln(Keq)1\\)<br/>\\(\\DeltaG1⊖=−2RT2\\ln(Keq)1 [Given: T_{1}=2T2 ]\\)<br/>\\(\\DeltaG2⊖=−R2\\ln(Keq)2\\)<br/>\\(∴\\DeltaG2⊖−\\DeltaG1⊖=RT2\\ln(Keq1)2(Keq2)\\)<br/>\\(=RT2\\ln2212=RT2\\ln8\\)<br/>\\(∴\\DeltaG⊖=RT\\lnxhasx=8\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 30,
+    "question_type": "MCQ",
+    "question": "<p>\\(The total number of sp2 hybridised carbon atoms in the major product P (a non-heterocyclic compound) of the following reaction is\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2aa1ac5acc.png\"/><br/></p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2aa1ac771a.png\"/><strong><br/></strong>\\(All marked C-atoms are sp2 hybridised.\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 31,
+    "question_type": "MCQ",
+    "question": "<p>\\(Match the reactions (in the given stoichiometry of the reac\\tants) in List-I with one of their products given in List II and choose the correct option.\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2aa55597c4.png\"/><br/></p>",
+    "options": {
+      "A": "\\(P\\vec{2};Q\\vec{3}; R\\vec{1}; S\\vec{5}\\)<br/>",
+      "B": "\\(P\\vec{3}; Q\\vec{5}; R\\vec{4}; S\\vec{2}\\)<br/>",
+      "C": "\\(P\\vec{5}; \\vec{2};R\\vec{1};S\\vec{3}\\)<br/>",
+      "D": "\\(P\\vec{2};Q\\vec{3}; R \\vec{4}; S\\vec{5}\\)"
+    },
+    "correct_answer": "D",
+    "solution": "<p>Solutions\\(P2O3+H2O\\vec{H3PO3}\\)<br/>\\(P_{4}+NaOH+H2O\\vec{PH3}+NaH2PO2\\)<br/>\\(PCl5+CH3COOH\\vec{CH3O}||C−Cl+POCl3+HCl\\)<br/>\\(H3PO2+H2O+AgNO3\\vec{H3PO4}+HNO3+Ag↓\\)<br/>\\(Hence :-\\)<br/>\\(P\\vec{2}\\)<br/>\\(Q\\vec{3}\\)<br/>\\(R\\vec{4}\\)<br/>\\(S\\vec{5}\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 32,
+    "question_type": "MCQ",
+    "question": "<p>\\(Match the electronic configurations in List-I with appropriate metal complex ions in List-II and choose the correct option.\\)<br/>\\([Atomic Number: Fe=26,Mn=25,Co=27 ]\\)</p>",
+    "options": {
+      "A": "\\(P\\vec{1}; Q\\vec{4}; R \\vec{2};S\\vec{3}\\)<br/>",
+      "B": "\\(P\\vec{1}; Q\\vec{2};R\\vec{4};S\\vec{5}\\)<br/>",
+      "C": "\\(P\\vec{3};Q\\vec{2};R\\vec{5}; \\vec{1}\\)<br/>",
+      "D": "\\(P\\vec{3}; Q\\vec{2};R\\vec{4};S\\vec{1}\\)"
+    },
+    "correct_answer": "D",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2aae22927f.png\"/><br/></p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 33,
+    "question_type": "MCQ",
+    "question": "<p>\\(Match the reactions in List-I with the features of their products in List-II and choose the correct option.\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2ab3751fa0.png\"/><br/></p>",
+    "options": {
+      "A": "\\(P\\vec{1}; Q\\vec{2}; R\\vec{5}; S\\vec{3}\\)<br/>",
+      "B": "\\(P\\vec{2};Q\\vec{1}; R\\vec{3}; S\\vec{5}\\)<br/>",
+      "C": "\\(P\\vec{1}; Q \\vec{2}; R \\vec{5}; \\vec\\vec{4}\\)<br/>",
+      "D": "\\(P\\vec{2}; Q\\vec{4}; R \\vec{3}; S\\vec{5}\\)"
+    },
+    "correct_answer": "B",
+    "solution": "<p>Solutions\\((P) Configuration at chiral carbon is same. P\\vec{2} [reaction does not occur at chiral carbon]\\)<br/>(Q) Configuration at chiral carbon changes.<br/>\\(Q\\vec{1}\\)<br/>\\((R) SN1\\vec Mixture of enantiomers formed.\\)<br/>\\(R\\vec{3}\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2ab3757a94.png\"/>∴ So mixture of diastereomers are formed.<br/>\\(S\\vec{5}\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 34,
+    "question_type": "MCQ",
+    "question": "<p>\\(The major products obtained from the reactions in List-II are the reac\\tants for the named reactions mentioned in List-I. Match List-I with List-II and choose the correct option.\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2ab8a87e71.png\"/><br/></p>",
+    "options": {
+      "A": "\\(P\\vec{2}; Q\\vec{4}; R\\vec{1}; S\\vec{3}\\)<br/>",
+      "B": "\\(P\\vec{1}; Q\\vec{3}; R\\vec{5}; S\\vec{2}\\)<br/>",
+      "C": "\\(P\\vec{3}; Q\\vec{2};R\\vec{1}; \\vec{4}\\)<br/>",
+      "D": "\\(P\\vec{3}; Q\\vec{4}; R\\vec{5}; S\\vec{2}\\)"
+    },
+    "correct_answer": "D",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2ab8a8bcb0.png\"/><strong><br/></strong></p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 35,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let S=(0,1)∪(1,2)∪(3,4) and T={0,1,2,3}. Then which of the following statements is(are) true?\\)<br/>\\(*This question may have multiple correct answers\\)</p>",
+    "options": {
+      "A": "There are infinitely many functions from S to T<br/>",
+      "B": "\\(There are infinitely many strictly increa\\sing functions from S to T\\)<br/>",
+      "C": "\\(The number of continuous functions from S to T is at most 120\\)<br/>",
+      "D": "Every continuous function from S to T is differentiable"
+    },
+    "correct_answer": "D",
+    "solution": "<p>Solutions\\(S=(0,1)∪(1,2)∪(3,4)andT={0,1,2,3}\\)<br/>\\(Let domain and co-domain of a function y=f(x) are S and T respectively.\\)<br/>\\((A) There are infinitely many elements in domain and four elements in co-domain.\\)<br/>⇒ There are infinitely many functions from S to T.<br/>⇒ Option (A) is correct<br/>\\((B) If number of elements in domain is greater than number of elements in co-domain, then number of strictly increa\\sing function is zero.\\)<br/>⇒ Option (B) is incorrect<br/>\\((C) Maximum number of continuous functions =4×4×4=64\\)<br/>\\((Every subset (0,1),(1,2),(3,4) has four choices)\\)<br/>\\(∵64&lt;120⇒ option (C) is correct.\\)<br/>\\((D) For every point at which f(x) is continuous, f(x)=0\\)<br/>⇒ Every continuous function from S to T is differentiable.</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 36,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let T_{1} and T_{2} be two distinct common \\tangents to the ellipse E:x_{26}+y_{23}=1 and the parabola P:y_{2}=12x.\\)<br/>\\(Suppose that the \\tangent T_{1} touches P and E at the points A_{1} and A_{2}, respectively and the \\tangent T_{2} touches P and E at the points A_{4} and A_{3}, respectively. Then which of the following statements is(are) true?\\)<br/>\\(*This question may have multiple correct answers\\)</p>",
+    "options": {
+      "A": "\\(The area of the quadrilateral A1A2A3A4 is 35 square units\\)<br/>",
+      "B": "\\(The area of the quadrilateral A1A2A3A4 is 36 square units\\)<br/>",
+      "C": "\\(The \\tangents T_{1} and T_{2} meet the x-axis at the point (−3,0)\\)<br/>",
+      "D": "\\(The \\tangents T_{1} and T_{2} meet the x-axis at the point (−6,0)\\)"
+    },
+    "correct_answer": "C",
+    "solution": "<p>Solutions\\(E:\\frac{x_{2}}{6}+\\frac{y_{2}}{3}=1, Tangent :y=m1x±\\\\sqrt{{6m12+3}}\\)<br/>\\(P:y_{2}=12x, Tangent: y=m2x+3m2\\)<br/>\\(For common \\tangent\\)<br/>\\(m=m_{1}=m_{2},±\\\\sqrt{{6m12+3}}=3m2\\)<br/>\\(⇒m=±1\\)<br/>\\(⇒ equation of common \\tangents y=x+3 and y=−x−3 point of contact for parabola is (am2,2am)\\)<br/>\\(⇒A_{1}≡(3,6),A_{4}(3−6)\\)<br/>\\(Let A_{2}(x_{1},y_{1})⇒ \\tangent to E is xx16+yy13=1\\)<br/>\\(A_{3} is mirror image of A_{2} in x-axis ⇒A_{3}(−2,−1)\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2abf3b444e.png\"/>\\(Intersection point of T_{1}=0 and T_{2}=0 is (−3,0)\\)<br/>\\(Area of quadrilateral A1A2A3A4=12(12+2)×5=35 square units\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 37,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let f:[0,1]\\vec[0,1] be the function defined by f(x)=x_{33}−x_{2}+59x+1736. Consider the square region S=[0,1]×[0,1]. Let G={(x,y)∈S:y&gt;f(x)} be called the green region and R={(x,y)∈S:y&lt;f(x)} be called the red region. Let Lh={(x,h)∈S:x∈[0,1]} be the horizontal line drawn at a height h∈[0,1]. Then which of the following statements is(are) true?\\)<br/>\\(*This question may have multiple correct answers\\)</p>",
+    "options": {
+      "A": "\\(There exists an h∈[14,23] such that the area of the green region above the line Lh equals the area of the green region below the line Lh\\)<br/>",
+      "B": "\\(There exists an h∈[14,23] such that the area of the red region above the line Lh equals the area of the red region below the line Lh\\)<br/>",
+      "C": "\\(There exists an h∈[14,23] such that the area of the green region above the line Lh equals the area of the red region below the line Lh\\)<br/>",
+      "D": "\\(There exists an h∈[14,23] such that the area of the red region above the line Lh equals the area of the green region below the line Lh\\)"
+    },
+    "correct_answer": "D",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2ac4491b7a.png\"/><strong><br/></strong>\\(f(x)=x_{33}−x_{2}+59x+1736,f′(x)=x_{2}−2x+59\\)<br/>\\(For \\frac{maxima}{minima}, f′(x)=0⇒x=13\\)<br/>\\(AR=1∫0f(x)dx=12⇒AG=12\\)<br/>\\((A) 1−h=h−12⇒h=34,34&gt;23 option (A) is incorrect\\)<br/>\\((B) h=12−h⇒h=14⇒ option (B) is correct.\\)<br/>(C)<br/>\\(1∫0f(x)dx=12,1∫012dx=12⇒1∫0(f(x)−12)dx=0\\)<br/>\\(⇒h=12⇒option (C) is correct.\\)<br/>(D) ∵ Option (C) is correct ⇒ option (D) is also correct.</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 38,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let f:(0,1)\\vecℝ be the function defined as f(x)=\\\\sqrt{{n if x}}∈[\\frac{1}{n}+1,\\frac{1}{n)} where n∈ℕ. Let g:(0,1)\\vecℝ be a function such that ∫2xx\\\\sqrt{{1}}−\\frac{t}{tdt}&lt;g(x)&lt;2\\\\sqrt{{x for all x}}∈(0,1). Then limx\\vec{0f}(x)g(x)\\)<br/></p>",
+    "options": {
+      "A": "Does NOT exist<br/>",
+      "B": "\\(Is equal to 1\\)<br/>",
+      "C": "\\(Is equal to 2\\)<br/>",
+      "D": "\\(Is equal to 3\\)"
+    },
+    "correct_answer": "C",
+    "solution": "<p>Solutions\\(We need to solve 1 sided limit here to get some answer, otherwise limx\\vec{0}−doesn't exist here (not in domain)\\)<br/>\\(f(x)=\\\\sqrt{{(1x)}}−1where(⋅)=least integer function\\)<br/>\\(limx\\vec{0}+∫2xx\\\\sqrt{{1}}−ttdt⋅\\\\sqrt{{(1x)}}−1≤limx\\vec{0}+f(x)⋅g(x)≤limx\\vec{0}+\\\\sqrt{{(1x)}}−1×2\\\\sqrt{{x}}\\)<br/>\\(Nowlimx\\vec{0}+\\\\sqrt{{(1x)}}−1×2\\\\sqrt{{x}}=limx\\vec{0}+2\\\\sqrt{{x}}√[1x](1x∉Z)\\)<br/>\\(=limx\\vec{0}+2\\\\sqrt{{x(1x}}−{1x})=2\\)<br/>\\(=limx\\vec{0}+2\\\\sqrt{{x(1x)}}=2;(1x∉Z)\\)<br/>\\(limx\\vec{0}+∫2xx\\\\sqrt{{1}}−ttdt⋅\\\\sqrt{{1x}}−{1x}=∫2xx\\\\sqrt{{1}}−ttdt⋅\\\\sqrt{{1}}−x{1x}\\\\sqrt{{x}}\\)<br/>\\(limx\\vec{0}+∫2xx\\\\sqrt{{1}}−ttdt\\\\sqrt{{x}}=limx\\vec{0}+\\\\sqrt{{1}}−xx−2x\\\\sqrt{{1}}−x2x212\\\\sqrt{{x}}\\)<br/>\\(limx\\vec{0}+2\\\\sqrt{{1}}−x−4\\\\sqrt{{x}}⋅\\\\sqrt{{1}}−x_{2}=2\\)<br/>\\(Similarly for 1x∈Z is equal to 2 .\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 39,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let Q be the cube with the set of vertices {(x_{1},x_{2},x_{3})∈ℝ3:x_{1},x_{2},x_{3}∈{0,1}}. Let F be the set of all twelve lines containing the diagonals of the six faces of the cube Q. Let S be the set of all four lines containing the main diagonals of the cube Q; for ins\\tance, the line pas\\sing through the vertices (0,0,0) and (1,1,1) is in S. For lines ℓ1 and ℓ2, let d(ℓ1,ℓ2) denote the shortest dis\\tance between them. Then the maximum value of d(ℓ1,ℓ2), as ℓ1 varies over F and ℓ2 varies over S, is\\)<br/></p>",
+    "options": {
+      "A": "\\(1\\\\sqrt{{6}}\\)<br/>",
+      "B": "\\(1\\\\sqrt{{8}}\\)<br/>",
+      "C": "\\(1\\\\sqrt{{3}}\\)<br/>",
+      "D": "\\(1\\\\sqrt{{12}}\\)"
+    },
+    "correct_answer": "A",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2ac8a7a39a.png\"/><strong><br/></strong>Equation of OD line is<br/>\\(\\vec{r}=\\vec{0}+λ(\\hat{i}+\\hat{j})\\)<br/>Equation of diagonal BE is<br/>\\(\\vec{r1}=\\hat{j}+\\alpha(\\hat{i}−\\hat{j}+\\hat{k})\\)<br/>\\(S.D=|\\hat{j}⋅(\\hat{i}−\\hat{j}−2\\hat{k})\\\\sqrt{{6}}|=1\\\\sqrt{{6}}\\)<br/>In other case S.D is zero.</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 40,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let X={(x,y)∈ℤ×ℤ:x_{28}+y_{220}&lt;1. and y_{2}&lt;5x}. Three distinct point P,Q and R are randomly chosen from X. Then the probability that P,Q and R form a triangle whose area is a positive integer, is\\)<br/></p>",
+    "options": {
+      "A": "\\(71220\\)<br/>",
+      "B": "\\(73220\\)<br/>",
+      "C": "\\(79220\\)<br/>",
+      "D": "\\(83220\\)"
+    },
+    "correct_answer": "B",
+    "solution": "<p>SolutionsThe given region are as<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2acb9d2156.png\"/><br/>\\(The points inside region are {(2,1),(2,−1),(2,2),(2,−2),(2,3),(2,−3),(2,0),(1,1),(1,−1),(1,2),(1,−2), (1,0)}.\\)<br/>\\(Total number of ways to select three points =12C3=220\\)<br/>\\(Required number of triangle =4×7C1+9×5C1=73\\)<br/>\\(Points are taken such a way that dis\\tance between two points are multiple of 2 .\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 41,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let P be a point on the parabola y_{2}=4ax, where a&gt;0. The normal to the parabola at P meets the x-axis at a point Q. The area of the triangle PFQ, where F is the focus of the parabola, is 120 . If the slope m of the normal and a are both positive integers, then the pair (a,m) is\\)<br/></p>",
+    "options": {
+      "A": "\\((2,3)\\)<br/>",
+      "B": "\\((1,3)\\)<br/>",
+      "C": "\\((2,4)\\)<br/>",
+      "D": "\\((3,4)\\)"
+    },
+    "correct_answer": "A",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2acdc5ea45.png\"/><strong><br/></strong>\\(Equation of normal at P(am2,−2am) is y=mx−2am−am3\\)<br/>\\(⇒ Area of △PFQ=12(a+am2)×2am=120\\)<br/>\\(a2m(1+m_{2})=120\\)<br/>\\(Pair (a,m)≡(2,3) satisfies above equation\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 42,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let \\tan−1(x)∈(−\\pi2,\\pi2), for x∈ℝ. Then the number of real solutions of the equation \\\\sqrt{{1+\\cos(2x)}}=\\\\sqrt{{2\\tan}}−1(\\tanx) in the set (−3\\pi2,−\\pi2)∪(−\\pi2,\\pi2)∪(\\pi2,3\\pi2) is equal to\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(\\\\sqrt{{1+\\cos2x}}=\\\\sqrt{{2\\tan}}−1(\\tanx)\\)<br/>\\(⇒|\\cosx|=\\tan−1(\\tanx)\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2ad1a9611f.png\"/>\\(Number of solutions = Number of intersection points =3\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 43,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let n≥2 be a natural number and f:[0,1]\\vecℝ be the function defined by\\)<br/>\\(f(x)={n(1−2nx)if0≤x≤12n2n(2nx−1)if12n≤x≤34n4n(1−nx)if34n≤x≤1nnn−1(nx−1)if1n≤x≤1.\\)<br/>\\(If n is such that the area of the region bounded by the curves x=0,x=1,y=0 and y=f(x) is 4 , then the maximum value of the function f is\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(f(x)={n(1−2nx)0≤x&lt;12n2n(2nx−1)12n≤x&lt;34n4n(1−nx)34n≤x≤1nnn−1(nx−1)1n≤x≤1.\\)<br/>\\(4n(1−nx),34n≤x≤1n\\)<br/>\\(nn−1(nx−1),1n≤x≤1\\)<br/>\\right.<br/>\\(x∈[0,1]\\)<br/>\\(f(x) is decrea\\sing in [0,12n]\\)<br/>\\(increa\\sing in [12n,34n]\\)<br/>\\(decrea\\sing in [34n,1n]\\)<br/>\\(increa\\sing in [1n,1]\\)<br/>Graph<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2ad542e05e.png\"/>\\(f(x)∈[0,n]\\)<br/>\\(Area=4⇒n=8=andf(x)max=n=8\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 44,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let 7⏞5...57r denote the (r+2) digit number where the first and the last digits are 7 and the remaining r digits are 5. Consider the sum S=77+757+7557+...+7⏞5...5798.If S=7⏞5...57+m99n, where m and n are natural numbers less than 3000 , then the value of m+n is\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(S=77+757+7557+...+7985...57\\)<br/>\\(=7(10+102+...+1099)+50(1+11+...+98111...1)+7×99\\)<br/>\\(=70(1099−19)+509[(10−1)+(102−1)+...+(1098−1)]+7×99\\)<br/>\\(=70(1099−19)+509[10(1098−19)−98]+7×99\\)<br/>\\(=7×101009−709+509[1099−1−99−98]+7×99\\)<br/>\\(=7×101009−709+509[99111...1−99]+7×99\\)<br/>\\(=7×10100−70+99555....50−550+6939\\)<br/>\\(=799555...5−70+143×99\\)<br/>\\(=79955...57+12109\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 45,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let A={1967+1686i\\sin\\theta7−3i\\cos\\theta:\\theta∈R}. If A contains exactly one positive integer n, then the value of n is\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(z=1967+1686i\\sin\\theta7−3i\\cos\\theta is a positive integer.\\)<br/>\\(z=(1967+1686i\\sin\\theta)(7+3i\\cos\\theta)(7−3i\\cos\\theta)(7+3i\\cos\\theta)\\)<br/>\\(1967=281×7;1686=281×6\\)<br/>\\(z=1967×7−1686×3\\sin\\theta\\cos\\theta+i(1686×7\\sin\\theta+1967×3\\cos\\theta)49+9\\cos2\\theta\\)<br/>\\((281×6)×7\\sin\\theta+(281×7)×3\\cos\\theta=0\\)<br/>\\(\\tan\\theta=−12\\)<br/>\\(⇒\\cos2\\theta=45;\\sin\\theta\\cos\\theta=−25\\)<br/>\\(z=(281×7×7)−(281×6)×3×(−25)49+9×45=281(49+365)(49+365)=281\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 46,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let P be the plane \\\\sqrt{{3x+2y+3z}}=16 and let\\)<br/>\\(S={\\alpha\\hat{i}+\\beta\\hat{j}+\\gamma\\hat{k}:\\alpha2+\\beta2+\\gamma2=1. and the dis\\tance of (\\alpha,\\beta,\\gamma) from the plane P is 72}.\\)<br/>\\(Let \\vec{u},\\vec{v} and \\vec{w} be three distinct vectors in S such that |\\vec{u}−\\vec{v}|=|\\vec{v}−\\vec{w}|=|\\vec{w}−\\vec{u}|. Let V be the volume of the parallelepiped determined by vectors \\vec{u},\\vec{v} and \\vec{w}. Then the value of 80\\\\sqrt{{3V is}}\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(P:\\\\sqrt{{3x+2y+3z}}=16\\)<br/>\\(S=\\alpha\\hat{i}+\\beta\\hat{j}+\\gamma\\hat{k}:\\alpha2+\\beta2+\\gamma2=1\\)<br/>\\(d(\\alpha,\\beta,\\gamma)fromP=72\\)<br/>\\(|\\vec{u}−\\vec{v}|=|\\vec{v}−\\vec{w}|=|\\vec{w}−\\vec{u}|−\\)<br/>\\(V : volume of parallelepiped by vectors \\vec{u},\\vec{v},\\vec{w}\\)<br/>\\(80\\\\sqrt{{3V}}=?\\)<br/>\\(d(\\alpha,\\beta,\\gamma)from\\beta=72(Given)\\)<br/>\\(⇒|\\\\sqrt{{3}}\\alpha+2\\beta+3\\gamma−16|\\\\sqrt{{3+4+9}}=72\\)<br/>\\(=|\\\\sqrt{{3}}\\alpha+2\\beta+3\\gamma−16|4=72\\)<br/>\\(|\\\\sqrt{{3}}\\alpha+2\\beta+3\\gamma−16|=14...(i)\\)<br/>\\(\\alpha2+\\beta2+\\gamma2=1.....(ii)\\)<br/>\\(Volume of parallelepiped by vector \\vec{u},\\vec{v},\\vec{w}\\)<br/>\\(V=[\\vec{u}\\vec{V}\\vec{w}]\\)<br/>\\(=\\vec{u}⋅(V×w)....(iii)\\)<br/>\\(|\\vec{u}|=|\\vec{v}|=|\\vec{w}|=1 (Given)...(iv)\\)<br/>\\(|\\vec{u}−\\vec{v}|=|\\vec{v}−\\vec{w}|=|\\vec{w}−\\vec{u}|-(Given)\\)<br/>\\(⇒|\\vec{u}−\\vec{v}|2=|\\vec{v}−\\vec{w}|2=|\\vec{w}−\\vec{u}|2\\)<br/>\\(⇒u_{2}+v_{2}(A)−2\\vec{u}⋅\\vec{v}=v_{2}+w_{2}(B)−2\\vec{v}⋅\\vec{w}\\)<br/>\\(=w_{2}+u(C)2−2\\vec{w}⋅\\vec{u}\\)<br/>(A) and (B)<br/>\\(⇒u_{2}+v_{2}−2\\vec{u}⋅\\vec{v}=v_{2}+w_{2}−2\\vec{v}⋅\\vec{w}\\)<br/>\\(⇒u_{2}−w_{2}=2\\vec{u}⋅\\vec{v}−2\\vec{v}⋅\\vec{w} [∵|\\vec{u}|=|\\vec{w}|=1 (Given)]\\)<br/>\\(⇒\\vec{u}⋅\\vec{v}=\\vec{v}⋅\\vec{w}\\)<br/>\\(Hence, by u\\sing (B) and (C) also, we will get\\)<br/>\\(\\vec{u}⋅\\vec{v}=\\vec{v}⋅\\vec{w}=\\vec{w}⋅\\vec{u}=m (say)...(v)\\)<br/>\\(⇒\\vec{u},\\vec{v},\\vec{w} are the vectors of an equilateral triangle (say △ABC )\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2addde86df.png\"/><br/>\\(d(O,P)=frac16\\sqrt{3+4+9}\\)<br/>\\(=164\\)<br/>\\(=4units\\)<br/>\\(\\vec{OA}=\\vec{u},\\vec{OB}=\\vec{v},\\vec{OC}=\\vec{w}\\)<br/>\\(|\\vec{OA}|=|\\vec{OB}|=|\\vec{OC}|=1(Given)\\)<br/>\\(=164\\)<br/>\\(=4units\\)<br/>\\(\\vec{OA}=\\vec{u},\\vec{OB}=\\vec{v},\\vec{OC}=\\vec{w}\\)<br/>\\(|\\vec{OA}|=|\\vec{OB}|=|\\vec{OC}|=1(Given)\\)<br/>In an equilateral triangle, circumcentre, orthrocentre and centroid coincide.<br/>Let D be the circumcentre of △ABC, then<br/>\\(∠ADB=^{\\circ}\\)<br/>\\(Given =DA2+DB2−AB22(DA)⋅(DB)...(vi)\\)<br/>\\(OE=OD+DE\\)<br/>\\(=OD+AF\\)<br/>\\(⇒4=OD+72\\)<br/>\\(⇒OD=4−72=12\\)<br/>\\(⇒DA=\\\\sqrt{{OA2}}−OD2\\)<br/>\\(=\\\\sqrt{{1}}−14\\)<br/>\\(DA=\\\\sqrt{{32}}\\)<br/>\\(⇒DA=DB=\\\\sqrt{{32}}\\)<br/>From (vi) and (vii),<br/>\\(−12=34+34−AB22\\\\sqrt{{32}}×\\\\sqrt{{32}}\\)<br/>\\(−12=32−AB232\\)<br/>\\(⇒−12×32=32−AB2\\)<br/>\\(⇒AB2=32+34\\)<br/>\\(⇒AB2=94\\)<br/>\\(⇒AB−32=|\\vec{u}−\\vec{v}|\\)<br/>\\(⇒AB2=94=u_{2}+v_{2}−2\\vec{u}−\\vec{v}\\)<br/>\\(⇒94=1+1−2m\\)<br/>\\(⇒2m=2−94=−14\\)<br/>\\(⇒m=−18....(viii)\\)<br/>Volume of parallelepiped,<br/>\\(V=|[\\vec{u}\\vec{v}\\vec{w}]|\\)<br/>\\(|\\vec{u}\\vec{v}\\vec{w}|2=|1\\vec{u}⋅\\vec{v}\\vec{u}⋅\\vec{w}\\vec{u}⋅\\vec{v1}\\vec{v}⋅\\vec{w}\\vec{w}⋅\\vec{u}\\vec{w}⋅\\vec{v1}|\\)<br/>\\(=|1mmm1mmm1|\\)<br/>\\(=1(1−m_{2})−m(m−m_{2})+m(m_{2}−m)\\)<br/>\\(=1−m_{2}−m_{2}+m_{3}+m_{3}−m_{2}\\)<br/>\\(=1−3m2+2m3\\)<br/>\\(|\\vec{u}\\vec{v}\\vec{w}|2=2m3−3m2+1\\)<br/>\\(=(m−1)[2m2−m−1]\\)<br/>\\(=(m−1)[2m2−2m+m−1]\\)<br/>\\(=(m−1)(m−1)(2m+1)\\)<br/>\\(=(m−1)2(2m+1)\\)<br/>\\(⇒|[\\vec{u}\\vec{v}\\vec{w}]|=(m−1)\\\\sqrt{{(2m+1)}}=v\\)<br/>\\(|(−18−1)\\\\sqrt{{2}}×−18+1|\\)<br/>\\(V=98×\\\\sqrt{{32}}\\)<br/>\\(80\\\\sqrt{{3v}}=80\\\\sqrt{{3}}×98×\\\\sqrt{{32}}\\)<br/>\\(=45\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 47,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let a and b be two nonzero real numbers. If the coefficient of x_{5} in the expansion of (ax2+7027bx)4 is equal to the coefficient of x−5 in the expansion of (ax−1bx2)7, then the value of 2b is\\)</p>",
+    "options": {},
+    "correct_answer": null,
+    "solution": "<p>Solutions\\(Tr+1=4Cr(ax2)4−r(7027bx)r\\)<br/>\\(For coefficient of x_{5},8−2r−r=5⇒r=1\\)<br/>\\(⇒ Coefficient of x_{5}=4C1a3(7027b)\\)<br/>\\(tr+1=7Cr(ax)7−r(−1bx2)r\\)<br/>\\(For coefficient of x−5,7−r−2r=−5⇒r=4\\)<br/>\\(⇒ coefficient of x−5=7C4a31b4\\)<br/>\\(⇒4C1a3(7027b)=7C4a31b4⇒2b=3\\)</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 48,
+    "question_type": "MCQ",
+    "question": "<p>Let α,β and γ be real numbers. Consider the following system of linear equations<br/>\\(x+2y+z=7\\)<br/>\\(x+\\alphaz=11\\)<br/>\\(2x−3y+\\betaz=\\gamma\\)<br/>\\(Match each entry in List-I to the correct entries in List-II.\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2ae4834cd4.png\"/><br/>The correct option is:</p>",
+    "options": {
+      "A": "\\((P)\\vec(3),(Q)\\vec(2),(R)\\vec(1),(S)\\vec(4)\\)",
+      "B": "\\((P)\\vec(3),(Q)\\vec(2),(R)\\vec(5),(S)\\vec(4)\\)",
+      "C": "\\((P)\\vec(2),(Q)\\vec(1),(R)\\vec(4),(S)\\vec(5)\\)",
+      "D": "\\((P)\\vec(2),(Q)\\vec(1),(R)\\vec(1),(S)\\vec(3)\\)"
+    },
+    "correct_answer": "A",
+    "solution": "<p>Solutions\\(x+2y+z=7\\)<br/>\\(x+\\alphaz=11\\)<br/>\\(2x−3y+\\betaz=\\gamma\\)<br/>\\(\\Delta=|12110\\alpha2−3\\beta|=0\\)<br/>\\(3\\alpha−2(\\beta−2\\alpha)−3=0\\)<br/>\\(7\\alpha−2\\beta=3\\)<br/>\\(⇒\\beta=12(7\\alpha−3)\\)<br/>\\(\\Delta1=|721110\\alpha\\gamma−3\\beta|,\\Delta2=|171111\\alpha2\\gamma\\beta|,\\Delta3=|12710112−3\\gamma|\\)<br/>\\(\\Delta3=0\\)<br/>\\(⇒33−2(\\gamma−22)+7(−3)=0\\)<br/>\\(\\gamma=28\\)<br/>\\(\\Delta1=21\\alpha−2(11\\beta−\\alpha\\gamma)−33\\)<br/>\\(=21\\alpha−22\\beta+2\\alpha\\gamma−33\\)<br/>\\(\\Delta2=11\\beta−\\alpha\\gamma−7(\\beta−2\\alpha)+\\gamma−22\\)<br/>\\(=14\\alpha+4\\beta+\\gamma−\\alpha\\gamma−22\\)<br/>\\((P) If \\beta=12(7\\alpha−3) and \\gamma=28\\)<br/>\\(\\Delta=0,\\Delta1=0,\\Delta2=0,\\Delta3=0\\)<br/>Infinitely many solutions<br/>\\(x=11,y=−2 and z=0 will satisfy all the three given equations, so it is a solution.\\)<br/>\\((Q) If \\beta=12(7\\alpha−3) and \\gamma≠28 then \\Delta=0, but \\Delta3≠0 so no solution\\)<br/>\\((R) If\\beta≠12(7\\alpha−3),\\alpha=1and\\gamma≠28\\)<br/>\\(\\Delta≠0,\\Delta3≠0so a unique solution\\)<br/>\\((S) If\\beta≠12(7\\alpha−3),\\alpha=1,\\gamma=28\\)<br/>\\(\\Delta≠0,\\Delta3=0,\\Delta1≠0,\\Delta2≠0,so a unique solution\\)<br/>\\(x=11,y=−2andz=0will satisfy all the three equations\\)<br/>Option A is correct.</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 49,
+    "question_type": "MCQ",
+    "question": "<p>Consider the given data with frequency distribution<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2aea4d4ec1.png\"/><br/>The correct option is<br/></p>",
+    "options": {
+      "A": "\\((P) \\vec (3) (Q) \\vec (2) (R) \\vec (4) (S) \\vec (5)\\)<br/>",
+      "B": "\\((P)\\vec(3)(Q)\\vec (2) (\\R) \\vec (1) (\\S) \\vec (5)\\)",
+      "C": "\\((P)\\vec(2)(Q)\\vec (3) (\\R) \\vec (4) (\\S) \\vec (1)\\)<br/>",
+      "D": "\\((P)\\vec (3) (\\Q) \\vec (3) (\\R) \\vec (5) (\\S) \\vec (5)\\)"
+    },
+    "correct_answer": "A",
+    "solution": "<p>Solutions<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2aea4d9227.png\"/><strong><br/></strong>\\(Mean=3×5+8×2+11×3+10×2+5×4+4×\\frac{4}{5}+2+3+2+4+4\\)<br/>\\(=15+16+33+20+20+\\frac{16}{20}=\\frac{120}{20}=6\\)<br/>\\(Median=12(10th+11thobservation)\\)<br/>\\(=12(5+5)=5\\)<br/>Mean deviation about mean<br/>\\(=3×5+2×4+1×4+2×2+4×2+5×320\\)<br/>\\(=5420=2.7\\)<br/>Mean deviation about median<br/>\\(=2×5+1×4+0+3×2+5×2+6×320\\)<br/>\\(=4.820=2.4\\)<br/>\\(P\\vec{3};Q\\vec{2};R\\vec{4};S\\vec{5}\\)<br/>∴ Option A is correct.</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 50,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let ℓ1 and ℓ2 be the lines \\vec{r1}=λ(\\hat{i}+\\hat{j}+\\hat{k}) and \\vec{r2}=(\\hat{j}−\\hat{k})+µ(\\hat{i}+\\hat{k}), respectively, Let X be the set of all the planes H that contain the line ℓ. For a plane H, let d(H) denote the smallest possible dis\\tance between the points of ℓ2 and H. Let H_{0} be a plane in X for which d(H_{0}) is the maximum value of d(H) as H varies over all planes in x.\\)<br/>\\(Match each entry in List-I to the correct entries in List-II.\\)<img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2bf46e978b.png\"/>The correct option is</p>",
+    "options": {
+      "A": "\\((P)\\vec(2)(Q)\\vec(4)(R)\\vec(5)(S)\\vec(1)\\)<br/>",
+      "B": "\\((P)\\vec(5)(Q)\\vec(4)(R)\\vec (3) (S) \\vec (1)\\)<br/>",
+      "C": "\\((P)\\vec(2)(Q)\\vec(1)(R)\\vec(3)(S)\\vec(2)\\)<br/>",
+      "D": "\\((P)\\vec(5)(Q)\\vec(1)(R)\\vec(4)(S)\\vec(2)\\)"
+    },
+    "correct_answer": "B",
+    "solution": "<p>Solutions\\(H_{0} will be the plane containing the line ℓ1 and parallel to ℓ2.\\)<br/>\\(∴ Normal vector of plane parallel ℓ1 and ℓ2 is |\\hat{i}\\hat{j}\\hat{k}111101|=\\hat{j}(1)−\\hat{j}(1−1)+\\hat{k}(−1) =\\hat{i}−\\hat{k}\\)<br/>\\(∴H_{0}:x−z=c∣(0,0,0)\\)<br/>\\(⇒C=0\\)<br/>\\(∴H_{0}:x−z=0\\)<br/>\\((P) d(H_{0})=1 dis\\tance of point (0,1,−1) from H.\\)<br/>\\(d=|0−(−1)\\\\sqrt{{2}}|=1\\\\sqrt{{2}}∴P\\vec{5}\\)<br/>\\((Q) d=|0−2\\\\sqrt{{2}}|=\\\\sqrt{{2}}∴Q\\vec{4}\\)<br/>\\((R) d=|0\\\\sqrt{{2}}|=0∴R\\vec{3}\\)<br/>\\((S) Point of intersection will be (1,1,1)∴S\\vec{1}\\)<br/>\\(d=\\\\sqrt{{1+1+1}}=\\\\sqrt{{3}}\\)<br/>∴ Option (B) is correct.</p>"
+  },
+  {
+    "subject": "JEE Advanced 2023 Paper - 1",
+    "question_no": 51,
+    "question_type": "MCQ",
+    "question": "<p>\\(Let z be a complex number satisfying |z|3+2z2+4barz−8=0, where barz denotes the complex conjugate of z. Let the imaginary part of z be nonzero. Match each entry in List-I to the correct entries in List-II.\\)<br/><img src=\"https://www.topcoaching.in/ckeditor/plugins/imageuploader/uploads/24_03_14_65f2bf9f9515f.png\"/><br/>The correct option is<br/></p>",
+    "options": {
+      "A": "\\((P) \\vec (1) (Q) \\vec (3) (R) \\vec (5) (S) \\vec (4)\\)<br/>",
+      "B": "\\((P)\\vec(2)(Q)\\vec(1)(R)\\vec (3) (S) \\vec (5)\\)<br/>",
+      "C": "\\((P)\\vec(2)(Q)\\vec(4)(R)\\vec(5)(S)\\vec (1)\\)<br/>",
+      "D": "\\((P)\\vec(2)(Q)\\vec(3)(R)\\vec(5)(S)\\vec (4)\\)"
+    },
+    "correct_answer": "B",
+    "solution": "<p>Solutions\\(|z|3+2z2+4z−8=0\\)<br/>\\(|z|3+2z2+4z−8=0\\)<br/>────────────────<br/>\\(2(z_{2}−z_{2})+4(z−z)=0\\)<br/>\\((z−z)[2(z+z)−4]=0\\)<br/>\\(∵z=z not possible or 4x=4⇒x=1\\)<br/>\\(z=1+λi⇒|z|=\\\\sqrt{{1+}}λ2⇒z=1−λi\\)<br/>\\((1+λ\\frac{2)3}{2}+2(1−λ2+2λi)+4(1−λi)−8=0\\)<br/>\\(⇒(1+λ\\frac{2)3}{2}+2(1−λ2)=4\\)<br/>\\((1+λ\\frac{2)3}{2}=2(1+λ2)\\)<br/>\\((1+λ2)[\\\\sqrt{{1+}}λ2−2]=0\\)<br/>\\(⇒λ2=3\\)<br/>Now<br/>\\((P) |z|2=1+λ2=1+3=4\\)<br/>\\((Q) |z−z|2=|1+λi−(1−λi)|2=|2λi|2=4λ2=12\\)<br/>\\((R) |z|2+|z+z|2=4+|(1+λi)+(1−λi)|2=4+4=8\\)<br/>\\((S) |z+1|2=|1+λi+1|2=4+λ2=4+3=7\\)<br/>\\(∴P\\vec(2),Q\\vec(1),R\\vec(3),S\\vec(5)\\)</p>"
+  }
+]
