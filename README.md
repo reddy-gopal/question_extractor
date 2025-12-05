@@ -61,6 +61,15 @@ The typical flow is:
 
 ## Setup
 
+### 0. Clone the repository
+
+From a terminal with Git installed:
+
+```bash
+git clone <REPO_URL>
+cd <project-folder>  # e.g. cd task3
+```
+
 1. **Create and activate a virtual environment (optional but recommended)**:
 
    ```bash
